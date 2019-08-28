@@ -1,0 +1,2 @@
+# kicking_ball_game
+Following youtuber Christian Thompson learning coding python game. This is another tutorial related using Class in programming. I became familiar with defining functions in a class, delivering parameters into a function within class and creating multiple instance from one classes (using list). The feature I added is: 1. introducing another player. 2. after the ball got kicked, it will inherit the direction of the player who kick it and jump a distance on that direction (just like the ball got kicked).
